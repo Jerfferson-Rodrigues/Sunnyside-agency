@@ -28,14 +28,14 @@
 }
 html,
 body {
-  width: 100%;
+  width: 100vh;
   height: 100%;
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
 }
 body {
-  width: 100%;
+/*   width: 100%; */
   color: var(--clr-grey-2);
   font-family: "Barlow", sans-serif;
 }
